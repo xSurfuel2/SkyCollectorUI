@@ -1,8 +1,6 @@
 # 🎨 [Nombre de tu App]
 
-![Figma Badge](https://img.shields.io/badge/Prototype-Figma-blue?style=for-the-badge&logo=figma)  
-![Status](https://img.shields.io/badge/Status-In%20Development-yellowgreen?style=for-the-badge)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+![Figma Badge](https://img.shields.io/badge/Prototype-Figma-blue?style=for-the-badge&logo=figma)  ![Status](https://img.shields.io/badge/Status-In%20Development-yellowgreen?style=for-the-badge)  ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 **[Nombre de tu App]** es un prototipo interactivo desarrollado en **Figma**, diseñado para mostrar **flujo de usuario, interfaz y experiencia UI/UX** de manera visual y funcional.  
 Ideal para guiar el desarrollo en **Android, iOS o Web** con un diseño limpio, moderno y escalable.

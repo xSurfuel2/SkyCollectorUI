@@ -1,8 +1,6 @@
 # ✈️ SkyCollector – Diseño UI/UX con pruebas y rediseño
 
-![Figma Badge](https://img.shields.io/badge/Prototype-Figma-blue?style=for-the-badge&logo=figma)  
-![Status](https://img.shields.io/badge/Status-In%20Development-yellowgreen?style=for-the-badge)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+![Figma Badge](https://img.shields.io/badge/Prototype-Figma-blue?style=for-the-badge&logo=figma)   ![Status](https://img.shields.io/badge/Status-In%20Development-yellowgreen?style=for-the-badge)   ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 Proyecto realizado para el módulo **Desarrollo de Interfaces**, centrado en el diseño de la interfaz gráfica, la experiencia de usuario y la mejora iterativa mediante pruebas reales.
 

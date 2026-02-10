@@ -20,6 +20,9 @@ Proyecto realizado para el módulo **Desarrollo de Interfaces**, centrado en el 
 ### Presentación en Canva
 - https://www.canva.com/design/DAHAz2c4FQA/Qzy9MLAS-Lw6a1nU65PRug/edit
 
+### Enlace al Google Form
+- https://www.canva.com/design/DAHAz2c4FQA/Qzy9MLAS-Lw6a1nU65PRug/edit
+
 ---
 
 ## 🎯 Objetivo del proyecto

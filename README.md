@@ -4,9 +4,6 @@
 
 Proyecto realizado para el módulo **Desarrollo de Interfaces**, centrado en el diseño de la interfaz gráfica, la experiencia de usuario y la mejora iterativa mediante pruebas reales.
 
-> ⚠️ Nota: El enunciado original hace referencia a la aplicación *EcoCity*.  
-> En este proyecto se ha adaptado dicho enunciado a la aplicación **SkyCollector**, manteniendo todos los requisitos funcionales, metodológicos y de evaluación solicitados.
-
 ---
 
 ## 🔗 Enlaces del proyecto

@@ -82,8 +82,7 @@ El diseño de SkyCollector aplica los principios de Material Design con una pale
 
 Las pruebas se realizaron sobre el prototipo v1 con usuarios externos utilizando Google Forms.
 
-![Formulario](imagenes/GF1.png)
-![Resultados](imagenes/GF2.png)
+![Formulario](imagenes/GF1.png) ![Resultados](imagenes/GF2.png)
 
 Se recogieron datos de tiempo por tarea, errores, ayuda necesaria y nivel de satisfacción.
 
